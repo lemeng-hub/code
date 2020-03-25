@@ -7,7 +7,7 @@ selenium可以模拟真实浏览器，自动化测试工具，支持多种浏览
 来源：https://www.jianshu.com/p/3aa45532e179
 
 #### Demo
-环境：Java selenium Chrome
-实现 机器模拟登录网站并获取 Cookie 读写文件
+环境：Java selenium Chrome; 
+实现机器模拟登录网站并获取 Cookie 读写文件
 
 
